@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [rohitbishla.me](rohitbishla.me)
+- 👨‍💻 All of my projects are available at [https://rohitbishla.me](https://rohitbishla.me)
 
 - 💬 Ask me about **DSA**
 
