@@ -2,20 +2,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbishla&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbishla" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" />
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning 
 
 - 👨‍💻 All of my projects are available at [https://rohitbishla.me](https://rohitbishla.me)
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **rohit.btele20@pec.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohitbishla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitbishla" height="30" width="40" /></a>
-<a href="https://instagram.com/rohit__bishla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_bishla" height="30" width="40" /></a>
+<a href="https://instagram.com/rohit.bishla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_bishla" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohitbishla333" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohitbishla333" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohit_bishla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit_bishla" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rohit_bishla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohit_bishla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
